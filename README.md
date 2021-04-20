@@ -13,7 +13,7 @@ That's why we are hiring you. We need you to write code that will create a table
 
 # Languages Used:
 
-CSS
-HTML
-JavaScript
-D3.js
+1. CSS
+2. HTML
+3. JavaScript
+4. D3.js
