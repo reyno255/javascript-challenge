@@ -12,4 +12,3 @@ That's why we are hiring you. We need you to write code that will create a table
 CSS
 HTML
 JavaScript
-VS Code
