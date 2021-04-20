@@ -1,4 +1,5 @@
 # javascript-challenge
+ 
  Repository for Homework #12
 
 All primary tools are found in the "static" folder
@@ -16,4 +17,4 @@ That's why we are hiring you. We need you to write code that will create a table
 1. CSS
 2. HTML
 3. JavaScript
-4. D3.js 
+4. D3.js
